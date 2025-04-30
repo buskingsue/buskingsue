@@ -11,6 +11,6 @@
 <h3 align="left">Body Pose Estimation</h3>
 <img src="https://github.com/buskingsue/buskingsue/blob/main/cut2.gif" height="200" width="300">
 <a href="https://www.instagram.com/reel/DEw407nyrJc/?utm_source=ig_web_copy_link" target="_blank">
-  <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="200" width="300" alt="인스타그램 썸네일">
+  <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="300" width="150" alt="인스타그램 썸네일">
 </a>
 
