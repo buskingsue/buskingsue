@@ -17,3 +17,5 @@
   <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="300" width="170" alt="인스타그램 썸네일">
 </a></p>
 
+<img src="https://github.com/buskingsue/kiosk/blob/master/k6.png" height="300" width="170" alt="키오스크">
+
