@@ -14,7 +14,7 @@
 <p align="left">
 <h3 align="left">1.RC CAR 실습 ________ 2.키오스크 만들기</h3>
 <a href="https://www.instagram.com/reel/DEw407nyrJc/?utm_source=ig_web_copy_link" target="_blank">
-  <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="300" width="170" alt="인스타그램 썸네일" style="margin-right: 20px;"> <img src="https://github.com/buskingsue/kiosk/blob/master/k6.png" height="300" width="170" alt="키오스크">
+  <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="300" width="170" alt="인스타그램 썸네일" > <img src="https://github.com/buskingsue/kiosk/blob/master/k6.png" height="300" width="170" alt="키오스크">
 </a></p>
 -----------------------------------------------------------------------------------------------  
 
