@@ -17,7 +17,7 @@
 <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="300" width="170" alt="인스타그램 썸네일" >
 </a>
 <h3 align="left">2.키오스크 만들기 </h3>
-<img src="https://github.com/buskingsue/kiosk/blob/master/k6.png" height="300" width="170" alt="키오스크">
+<img src="https://github.com/buskingsue/buskingsue/blob/main/k6.png" height="300" width="170" alt="키오스크">
 </p>
 -----------------------------------------------------------------------------------------------  
 
