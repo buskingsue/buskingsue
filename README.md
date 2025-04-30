@@ -12,7 +12,7 @@
 <p><img src="https://github.com/buskingsue/buskingsue/blob/main/cut2.gif" height="200" width="300"></p>
 -----------------------------------------------------------------------------------------------
 <p align="left">
-<h3 style="letter-spacing: 5px;" align="left">RC CAR 실습 키오스크 만들기</h3>
+<h3 align="left">RC CAR 실습 _______키오스크 만들기</h3>
 <a href="https://www.instagram.com/reel/DEw407nyrJc/?utm_source=ig_web_copy_link" target="_blank">
   <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="300" width="170" alt="인스타그램 썸네일" style="margin-right: 20px;"> <img src="https://github.com/buskingsue/kiosk/blob/master/k6.png" height="300" width="170" alt="키오스크">
 </a></p>
