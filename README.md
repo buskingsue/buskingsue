@@ -17,14 +17,14 @@
 ## 동작영상
 ## <p align="left"> <a href="https://www.instagram.com/reel/DFKBKrtoJxT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img width = "40%" src= "https://github.com/buskingsue/Smart_Farm_final/blob/main/ui_smart_farm.png">  <img width = "40%" src="https://github.com/buskingsue/Smart_Farm_final/blob/main/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C%20%ED%91%9C%EC%A7%80.png"> 
 ##
-###  기능
+###  🔨기능
 - 온도센서 습도센서 조도센서 값 입력
 - 팬 물펌프 LED 동작
 - 라즈베리파이 QT 파이차트 출력
 ### 
-###  사용한 부품
-- 온도 습도 센서, 조도 센서
-- LCD , 물펌프
+###  🌡사용한 부품
+- 온도🌡️ 습도🌁 센서, 조도 센서
+- LCD , 💧물펌프
 - `HC-06` 블루투스 모듈
 
 ##
@@ -32,15 +32,15 @@
 
 
 
-<h3 align="left">몸 동작 분석 YOLO Body Pose Estimation</h3>
+<h3 align="left">💪 몸 동작 분석 YOLO Body Pose Estimation</h3>
 <p><img src="https://github.com/buskingsue/buskingsue/blob/main/cut2.gif" height="200" width="300"></p>
 -------------------------------------------------------------------------------------
 <p align="left">
-<h3 align="left">원격 조종 차 Remote Control Car 실습 </h3>
+<h3 align="left">🚗 원격 조종 차 Remote Control Car 실습 </h3>
 <a href="https://www.instagram.com/reel/DEw407nyrJc/?utm_source=ig_web_copy_link" target="_blank">
 <img src="https://github.com/buskingsue/buskingsue/blob/main/rc.jpg" height="300" width="170" alt="인스타그램 썸네일" >
 </a>
-<h3 align="left">키오스크 Kiosk 만들기 </h3>
+<h3 align="left"> 🗒️키오스크 Kiosk 만들기 </h3>
 <img src="https://github.com/buskingsue/buskingsue/blob/main/k6.png" height="300" width="170" alt="키오스크">
 </p>
 -------------------------------------------------------------------------------------  
