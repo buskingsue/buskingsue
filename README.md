@@ -1,8 +1,6 @@
 ## 📚 Buskingsue (강동수) 👋👏👏👏👏👏
-<p align="left">
-<iframe src="https://github.com/sponsors/buskingsue/button" title="Sponsor buskingsue" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-</p>
-  # [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue)
+
+# [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue)
 
 <p align="left">
 <a href="https://www.notion.so/KioskApp-UI-f612e09e76904610babf669ab6d203f7?pvs=4" target="blank"><img align="center" src="https://github.com/buskingsue/buskingsue/blob/main/Notion-logo.svg.png" alt="notion" height="30" width="40" /></a>  
