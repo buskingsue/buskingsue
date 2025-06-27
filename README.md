@@ -1,4 +1,5 @@
-## 📚 Buskingsue (강동수) ![image](https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a)<img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="10">
+## 📚 Buskingsue (강동수) 
+<img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="10">
 
  👋👏👏👏👏👏
 
