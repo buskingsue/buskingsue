@@ -1,4 +1,4 @@
-## 📚 Buskingsue (강동수) 👋👏👏👏👏👏
+## 📚 Buskingsue (강동수) 🇰🇷 👋👏👏👏👏👏
 
 # [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue)
 
