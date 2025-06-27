@@ -1,4 +1,5 @@
-## 📚 Buskingsue (강동수) ![image](https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a)
+## 📚 Buskingsue (강동수) ![image](https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a)<img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="10">
+
  👋👏👏👏👏👏
 
 # [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue)
