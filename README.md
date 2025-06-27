@@ -2,7 +2,7 @@
 # from South Korea <img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="50">
 ## 👋👏👏👏👏👏
 ###
-# [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue) 후원
+# [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue) 후원해 주세요
 ##
 <p align="left">
 <a href="https://www.notion.so/KioskApp-UI-f612e09e76904610babf669ab6d203f7?pvs=4" target="blank"><img align="center" src="https://github.com/buskingsue/buskingsue/blob/main/Notion-logo.svg.png" alt="notion" height="30" width="40" /></a>  
