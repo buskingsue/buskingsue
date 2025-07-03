@@ -1,4 +1,4 @@
-## 🎙🎉 Buskingsue (강동수) 
+## 🎙 Buskingsue (강동수) 
 ## from South Korea <img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="50">
 ## 👋👏👏👏👏👏
 ###
