@@ -1,8 +1,8 @@
 ## 🎙 Buskingsue (강동수) from South Korea <img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="50">
 ##
-## Farmer & AI Developer
+## 👨‍🌾 Farmer & AI Developer
 ##
-### My GitHub Stats
+## 📱 My GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake-dark.svg">
