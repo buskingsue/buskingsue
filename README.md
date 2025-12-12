@@ -2,9 +2,9 @@
 ##
 ## 👨‍🌾 Farmer & AI Developer
 ## Video 
-
-https://github.com/buskingsue/buskingsue/blob/main/assets/me.mp4
-
+<video width="600" controls>
+  <source src="https://github.com/buskingsue/buskingsue/blob/main/assets/me.mp4" type="video/mp4">
+</video>
 ## 📱 My GitHub Stats
 
 <picture>
