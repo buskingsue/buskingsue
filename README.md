@@ -3,7 +3,7 @@
 ## 👨‍🌾 Farmer & AI Developer
 ## Video 
 
-https://github.com/buskingsue/buskingsue/issues/1#issue-3723239749
+https://github.com/buskingsue/buskingsue/blob/main/assets/me.mp4
 
 ## 📱 My GitHub Stats
 
