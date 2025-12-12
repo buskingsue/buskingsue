@@ -2,7 +2,7 @@
 ###
 ## 👨‍🌾 Farmer & AI Developer
 
-https://github.com/user-attachments/assets/54473f05-b869-4a05-a0fe-1cf1d2e74589)
+https://github.com/user-attachments/assets/54473f05-b869-4a05-a0fe-1cf1d2e74589
 
 ## 📱 My GitHub Stats
 
