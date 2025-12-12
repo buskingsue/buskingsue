@@ -2,7 +2,6 @@
 ##
 ## 👨‍🌾 Farmer & AI Developer
 
-https://github.com/buskingsue/buskingsue/issues/1#issue-3723239749
 
 ## 📱 My GitHub Stats
 
