@@ -1,7 +1,9 @@
 ## 🎙 Buskingsue (강동수) from South Korea <img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="50">
 ###
 ## 👨‍🌾 Farmer & AI Developer
-https://github.com/buskingsue/buskingsue/issues/1#issue-3723239749
+<video width="600" controls>
+  <source src="assets/me.mp4" type="video/mp4">
+</video>
 
 ## 📱 My GitHub Stats
 
