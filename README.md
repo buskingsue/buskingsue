@@ -2,7 +2,7 @@
 ###
 ## 👨‍🌾 Farmer & AI Developer
 <video width="600" controls>
-  <source src="" type="video/mp4">
+  <source src="https://github.com/buskingsue/buskingsue/issues/1#issue-3723239749" type="video/mp4">
 </video>
 
 ## 📱 My GitHub Stats
