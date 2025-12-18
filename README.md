@@ -1,6 +1,6 @@
 ## 🎙 Daniel (강동수) from South Korea <img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="50">
 ###
-## 👨‍🌾 Farmer & AI Developer
+## 👨‍🌾 Farmer & 42 school student
 
 https://github.com/user-attachments/assets/54473f05-b869-4a05-a0fe-1cf1d2e74589
 
