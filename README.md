@@ -2,14 +2,6 @@
 ###
 ## 👨‍🌾 Farmer & 42 school student
 <img src = https://github.com/buskingsue/Happy_2026/blob/main/new-year.gif>
-## 📱 My GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
-</picture>
-
 ###
 # 💖후원해 주세요 -> [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue) 
 ##
