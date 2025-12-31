@@ -2,7 +2,6 @@
 ###
 ## 👨‍🌾 Farmer & 42 school student
 <img src = https://github.com/buskingsue/Happy_2026/blob/main/new-year.gif>
----
 ## 📱 My GitHub Stats
 
 <picture>
