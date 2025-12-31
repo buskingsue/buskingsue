@@ -2,7 +2,8 @@
 ###
 ## 👨‍🌾 Farmer & 42 school student
 <p align="left">
-<img src = https://github.com/buskingsue/Happy_2026/blob/main/new-year.gif></p>
+<img src = https://github.com/buskingsue/Happy_2026/blob/main/new-year.gif>
+</p>
 ###
 # 💖후원해 주세요 -> [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue) 
 ##
