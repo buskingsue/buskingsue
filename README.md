@@ -1,8 +1,7 @@
 ## 🎙 Daniel (강동수) from South Korea <img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="50">
 ## 42 school student
 [![dokang's 42 stats](https://badge.mediaplus.ma/darkblue/dokang?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
----
+###
 # 💖후원해 주세요 -> [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)](https://github.com/sponsors/buskingsue) 
 ##
 <p align="left">
