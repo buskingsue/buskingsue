@@ -12,7 +12,7 @@
 </a></p>
 
 ## 
-# 📌 Smart Farm company web page ↓↓↓
+# 📌 Smart Farm company web page ↓↓↓(Testing the homepage)
 ## <p align="left"> <a href="https://smartgrow-jftea.pyxl.ai"><img width = "90%" src= "https://github.com/buskingsue/buskingsue/blob/main/smartgrow.png"> 
 
 
