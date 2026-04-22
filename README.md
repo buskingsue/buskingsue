@@ -5,11 +5,17 @@
 ---
 
 ##
-<p align="left">
-<a href="https://www.notion.so/KioskApp-UI-f612e09e76904610babf669ab6d203f7?pvs=4" target="blank"><img style="display: flex; gap: 10px; align-items: center; src="https://github.com/buskingsue/buskingsue/blob/main/Notion-logo.svg.png" alt="notion" height="25" width="30" /></a>  
-<a href="https://www.linkedin.com/in/buskingsue1985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/buskingsue1985" height="25" width="30" /></a>
-<a href="https://www.youtube.com/watch?v=jynmDlyK1Tg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@daniel_sue" height="25" width="30" />
-</a></p>
+<p align="left" style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.notion.so/KioskApp-UI-f612e09e76904610babf669ab6d203f7?pvs=4" target="blank">
+    <img src="https://github.com/buskingsue/buskingsue/blob/main/Notion-logo.svg.png?raw=true" alt="notion" height="25" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/buskingsue1985" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="30" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=jynmDlyK1Tg" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="25" width="30" />
+  </a>
+</p>
 
 ## 
 # 📌 Smart Farm company web page ↓↓↓(Testing the homepage)
