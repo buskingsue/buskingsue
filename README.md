@@ -18,8 +18,8 @@
 </p>
 
 ## Physical AI education turtlebot 
-<p align="left"><img width = "60%" src= "https://github.com/buskingsue/buskingsue/blob/main/turtlebot.gif"> 
----
+<p align="left"><img width = "40%" src= "https://github.com/buskingsue/buskingsue/blob/main/turtlebot.gif"> 
+
 ## 
 # 📌 Smart Farm company web page ↓↓↓(Testing the homepage)
 ## <p align="left"> <a href="https://smartgrow-jftea.pyxl.ai"><img width = "90%" src= "https://github.com/buskingsue/buskingsue/blob/main/smartgrow.png"> 
