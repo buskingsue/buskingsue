@@ -1,9 +1,5 @@
 ## 🎙 Daniel (강동수) from South Korea <img src="https://github.com/user-attachments/assets/9a09e332-9b4f-4e3c-b60c-b430b9a7ae4a" width="50">
 ## 42 school student
-[![dokang's 42 stats](https://badge.mediaplus.ma/darkblue/dokang?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
----
-
 ##
 <p align="left" style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.notion.so/KioskApp-UI-f612e09e76904610babf669ab6d203f7?pvs=4" target="blank">
@@ -16,6 +12,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="25" width="30" />
   </a>
 </p>
+
+###
+
+[![dokang's 42 stats](https://badge.mediaplus.ma/darkblue/dokang?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+---
+
 
 ###
 
