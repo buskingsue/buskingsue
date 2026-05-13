@@ -17,7 +17,8 @@
   </a>
 </p>
 
-## <p align="left"><img width = "60%" src= "https://github.com/buskingsue/buskingsue/blob/main/turtlebot.gif"> 
+## Physical AI education turtlebot 
+<p align="left"><img width = "60%" src= "https://github.com/buskingsue/buskingsue/blob/main/turtlebot.gif"> 
 ---
 ## 
 # 📌 Smart Farm company web page ↓↓↓(Testing the homepage)
