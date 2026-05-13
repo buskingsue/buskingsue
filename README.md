@@ -16,7 +16,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="25" width="30" />
   </a>
 </p>
-
+---
+## <p align="left"><img width = "90%" src= "https://github.com/buskingsue/buskingsue/blob/main/turtlebot.gif"> 
+---
 ## 
 # 📌 Smart Farm company web page ↓↓↓(Testing the homepage)
 ## <p align="left"> <a href="https://smartgrow-jftea.pyxl.ai"><img width = "90%" src= "https://github.com/buskingsue/buskingsue/blob/main/smartgrow.png"> 
